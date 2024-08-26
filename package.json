@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
-  "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "ravenlauncher",
+  "version": "0.1.0",
+  "productName": "Ravendel Launcher",
+  "description": "Le launcher du serveur RP Ravendel",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et Senssi",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
