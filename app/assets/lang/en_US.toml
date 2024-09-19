@@ -179,7 +179,7 @@ javaDownloadPrepare = "Préparation du téléchargement de Java.."
 javaDownloadFailureTitle = "Erreur lors du téléchargement de Java"
 javaDownloadFailureText = "Voir la console (CTRL + Shift + i) pour plus de détails."
 javaRequired = "Java est requis<br>pour le lancement"
-javaRequiredMessage = 'Une installation valide de Java {major} x64 est requise pour le lancement.<br><br>Veuillez consulter notre <a href="https://github.com/dscalzi/HeliosLauncher/wiki/Java-Management#manually-installing-a-valid-version-of-java">guide de gestion de Java</a> pour obtenir des instructions sur la façon d\'installer Java manuellement.'
+javaRequiredMessage = "Une installation valide de Java {major} x64 est requise pour le lancement.<br><br>Veuillez consulter notre <a href='https://github.com/dscalzi/HeliosLauncher/wiki/Java-Management#manually-installing-a-valid-version-of-java'>guide de gestion de Java</a> pour obtenir des instructions sur la façon d installer Java manuellement."
 javaRequiredDismiss = "Je comprends"
 javaRequiredCancel = "Retour"
 
